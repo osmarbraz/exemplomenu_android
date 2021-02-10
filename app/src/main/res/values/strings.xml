@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo de Menu</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="mensagem_sobre">Sobre a Aplicação\n Desenvolvida por Osmar de Oliveira Braz Junior\nUse o botão voltar para sair do sobre.</string>
+    <string name="mensagemajuda">Use os ... para acessar o menu!</string>
+</resources>
